@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512">
+  <title>Transivo</title>
+  <rect width="100" height="100" rx="24" fill="#0B2545"/>
+  <g stroke="#FF6B1A" stroke-width="6" stroke-linecap="round">
+    <line x1="9" y1="38" x2="21" y2="38"/>
+    <line x1="13" y1="50" x2="21" y2="50"/>
+  </g>
+  <path d="M29 30 h36 q4 0 6 3 l11 15 q3 4 3 8 v10 q0 4 -4 4 h-52 q-4 0 -4 -4 v-32 q0 -4 4 -4 z" fill="#FFFFFF"/>
+  <path d="M67 37 h3 l9 13 h-12 z" fill="#0B2545" opacity=".85"/>
+  <rect x="25" y="58" width="60" height="4" fill="#FF6B1A"/>
+  <circle cx="41" cy="69" r="7" fill="#0B2545" stroke="#FFFFFF" stroke-width="3"/>
+  <circle cx="70" cy="69" r="7" fill="#0B2545" stroke="#FFFFFF" stroke-width="3"/>
+</svg>
