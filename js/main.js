@@ -7,7 +7,7 @@
   "use strict";
 
   var TEXTS = window.MF_TEXTS || {};
-  var WA_NUMBER = "41782093964"; // WhatsApp-Nummer ohne + und ohne Leerzeichen
+  var WA_NUMBER = "41799469940"; // WhatsApp-Nummer ohne + und ohne Leerzeichen
   var LANGS = ["de", "fr", "en"];
   var current = "de";
 
